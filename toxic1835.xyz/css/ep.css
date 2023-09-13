@@ -26,6 +26,8 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    backdrop-filter: blur(2px);
+    overflow: hidden;
 }
 
 #c-s {
